@@ -1,0 +1,34 @@
+{
+ "name": "CLICK LEVEL ",
+ "children": [
+  {
+   "name": "Highly Osteogenic",
+   "children": [
+    {"name": "Basketball/Netball", "size": 3047},
+      {"name": "Impact aerobics", "size": 3047}
+     ]
+    },
+    {
+   "name": "Moderate Osteogenic",
+   "children": [
+    {"name": "Running/Jogging", "size": 3047},
+      {"name": "Brisk/Hill walking", "size": 3047}
+     ]
+    },
+    {
+   "name": "Low Osteogenic",
+   "children": [
+    {"name": "Leisure walking", "size": 3047},
+      {"name": "Lawn bowls", "size": 3047}
+     ]
+    },
+    {
+   "name": "Non-osteogenic",
+   "children": [
+    {"name": "Swimming", "size": 3047},
+      {"name": "Cycling", "size": 3047}
+     ]
+    }
+
+   ]
+  }
